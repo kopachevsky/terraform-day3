@@ -11,7 +11,9 @@ Create terraform module that accepting following variables:
   
   Not mandatory:
   Create s3 bucket with name provided
-  Create IAM role granding access to this bucket and attachd it to EC2 instance created above
+  Create IAM role granding access to this bucket and attach this Role to EC2 instance created above
 
 
 Return VPC id and instance ID
+
+Add example terraform code.
